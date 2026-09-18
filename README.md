@@ -1,11 +1,6 @@
-# Pahad Pahad (पहाड़ पहाड़)
+Mountain Catcher/Pahad Pahad
 
 > A vibrant, arcade 3D playground tag game inspired by the beloved traditional Indian street game of higher ground and quick escapes.
-
----
-
-## 📖 Description (350 Characters)
-**Pahad Pahad is a vibrant 3D playground tag game inspired by beloved childhood street play. Up to 5 players dash across mounds to stay safe. Each Pahad holds only one player—if the Catcher snatches your empty hill or tags you on the ground, you become the new Catcher! Features local multiplayer, smart AI bots, glowing beacons, and soccer physics.** *(346 characters)*
 
 ---
 
@@ -80,3 +75,4 @@ npm run dev
 # Build for production
 npm run build
 ```
+By Umar Patel
