@@ -1,0 +1,6 @@
+{
+  "name": "Pahad Pahad",
+  "description": "Pahad Pahad is a vibrant 3D playground tag game inspired by beloved childhood street play. Up to 5 players dash across mounds to stay safe. Each Pahad holds only one player—if the Catcher snatches your empty hill or tags you on the ground, you become the new Catcher! Features local multiplayer, smart AI bots, glowing beacons, and soccer physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
